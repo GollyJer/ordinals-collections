@@ -3,9 +3,9 @@
 ## Tech Stack
 GollyJer/ordinals-collections is built on the following main stack:
 
-- [CircleCI](https://circleci.com/) – Continuous Integration
-- [Python](https://www.python.org) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Python](https://www.python.org) – Languages
+- [CircleCI](https://circleci.com/) – Continuous Integration
 - [pytest](http://pytest.org/latest/) – Testing Frameworks
 
 Full tech stack [here](/techstack.md)
@@ -16,9 +16,9 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 GollyJer/ordinals-collections is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg' alt='CircleCI'/> [CircleCI](https://circleci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
 
 Full tech stack [here](/techstack.md)
@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [GollyJer/ordinals-collections](https://github.com/GollyJer/ordinals-collections)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|5<br/>Tools used|01/05/24 <br/>Report generated|
+|5<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
